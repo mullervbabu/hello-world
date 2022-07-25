@@ -10,5 +10,5 @@
 
    <h1> complated ansible automation </h1>
 
-   <h1> Implimenting CI/CD  deploy automatic jobs/h1>
+   <h1> Implimenting CI/CD  deploy automatic jobs </h1>
 
